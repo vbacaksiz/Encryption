@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587822814 source:c:\users\volka\desktop\44444\main.cpp
+	<iostream>
+	"vigenere.h"
+
+1587822804 source:c:\users\volka\desktop\44444\src\vigenere.cpp
+	"vigenere.h"
+
+1587822671 c:\users\volka\desktop\44444\include\vigenere.h
+	<iostream>
+	<string>
+

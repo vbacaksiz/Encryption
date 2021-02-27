@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588210546 source:c:\users\volka\desktop\1111\main.cpp
+	<iostream>
+	"polybius.h"
+
+1588210431 source:c:\users\volka\desktop\1111\src\polybius.cpp
+	"polybius.h"
+
+1588210161 c:\users\volka\desktop\1111\include\polybius.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<cstdlib>
+	<cctype>
+	<cstring>
+	<cstdio>
+

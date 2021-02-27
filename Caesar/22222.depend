@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1596884416 source:c:\users\volka\desktop\22222\main.cpp
+	<iostream>
+	"caesar.h"
+
+1587751122 source:c:\users\volka\desktop\22222\src\caesar.cpp
+	"caesar.h"
+
+1587676017 c:\users\volka\desktop\22222\include\caesar.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<cstdlib>
+	<cctype>
+	<cstring>
+	<cstdio>
+

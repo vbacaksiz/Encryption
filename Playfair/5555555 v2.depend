@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587925720 source:c:\users\volka\desktop\5555555 v2\src\playfair.cpp
+	"playfair.h"
+
+1587935417 c:\users\volka\desktop\5555555 v2\include\playfair.h
+	<iostream>
+	<string.h>
+
+1587935112 source:c:\users\volka\desktop\5555555 v2\main.cpp
+	<iostream>
+	"playfair.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587751232 source:c:\users\volka\desktop\33333\main.cpp
+	<iostream>
+	"affine.h"
+
+1587750453 c:\users\volka\desktop\33333\include\affine.h
+	<iostream>
+	<string>
+
+1587751623 source:c:\users\volka\desktop\33333\src\affine.cpp
+	"affine.h"
+
